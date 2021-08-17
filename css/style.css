@@ -1,0 +1,21 @@
+body {
+    padding-top: 100px;
+}
+
+#mainlogo {
+    height: 75px;
+    width: auto;
+}
+
+#mycarousel {
+    margin-top: 4%;
+    margin-bottom: 2%;
+}
+
+.social {
+    float: right;
+}
+
+.marketing {
+    padding-top: 30px;
+}
